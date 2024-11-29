@@ -3,6 +3,4 @@
 Understand the Problem: Aim to class.
 Determine the Objective:
 Accuracy : 88%
-Precision :
-Recall :
-Stakeholder Requirements: Identify constraints and requirements from stakeholders or end-users.
+I will improve it's accuracy by using different pretrained models
